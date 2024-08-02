@@ -1,15 +1,29 @@
 greating = 'hello'
 print(greating)
 sub = 'I am going to tell you a poem'
-print(sub)
+print('''Twinkle, twinkle, little star
 
+How I wonder what you are
 
-print("twinkle-twinkle little star,")
+Up above the world so high
 
+Like a diamond in the sky
 
-print("how are wonder what you are,")
-print("once upon the up to high,")
-print("like a daimond in the sky.")
+Twinkle, twinkle little star
+
+How I wonder what you are
+
+When the blazing sun is gone
+
+When he nothing shines upon
+
+Then you show your little light
+
+Twinkle, twinkle, all the night
+
+Twinkle, twinkle, little star
+
+How I wonder what you are''')
 
 #thank you for this
 
