@@ -1,6 +1,8 @@
 greating = 'hello'
 print(greating)
 sub = 'I am going to tell you a poem'
+print(sub)
+
 print('''Twinkle, twinkle, little star
 
 How I wonder what you are
